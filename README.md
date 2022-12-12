@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **rahulvck95@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fHs0WXpCaHcAUypp7c8C1qIGgH1xVYuH/view](https://drive.google.com/file/d/1fHs0WXpCaHcAUypp7c8C1qIGgH1xVYuH/view)
+- 📄 Know about my experiences [Resume] (https://drive.google.com/file/d/1fHs0WXpCaHcAUypp7c8C1qIGgH1xVYuH/view)(https://drive.google.com/file/d/1fHs0WXpCaHcAUypp7c8C1qIGgH1xVYuH/view)
 
 - ⚡ Fun fact **Learning mindset 🧠.**
 
