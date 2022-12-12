@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulzhp" alt="rahulzhp" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on Project [Beauty-Bebo](https://incandescent-gaufre-5716af.netlify.app/)
 
 - 🌱 I’m currently learning **React,Redux,JavaScript etc.**
@@ -19,6 +17,8 @@
 - 💬 Ask me about **React,Html,CSS,JavaScript**
 
 - 📫 How to reach me **rahulvck95@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1fHs0WXpCaHcAUypp7c8C1qIGgH1xVYuH/view](https://drive.google.com/file/d/1fHs0WXpCaHcAUypp7c8C1qIGgH1xVYuH/view)
 
 - ⚡ Fun fact **Learning mindset 🧠.**
 
