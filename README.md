@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Das</h1>
 <img align="auto" src="https://github.com/Codex-Swapnil1/PortFolio/raw/main/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif" alt="rahulzhp"/>
-<h3 align="center">I am passionate about Full Stack Web Development. I have hands-on experience in designing, developing, and maintaining projects.I like to learn more in this Domain and Specialize in Fronted and BackEnd frameworks.</h3>
+<h3 align="center">I am passionate about Full Stack Web Development. I have hands-on experience in designing, developing, projects and continue to have some experience as well as acquiring more knowledge. Looking forward to working as an accountable and competent employee in an exciting Tech company.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulzhp&label=Profile%20views&color=0e75b6&style=flat" alt="rahulzhp" /> </p>
 
