@@ -6,19 +6,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulzhp" alt="rahulzhp" /></a> </p>
 
-- 🔭 I’m currently working on Project [Beauty-Bebo](https://incandescent-gaufre-5716af.netlify.app/)
+- 🔭 I’m currently working on Project [Beauty-Queen](https://beautyqueen0.netlify.app/)
 
 - 🌱 I’m currently learning **React,Redux,JavaScript etc.**
 
 - 👯 I’m looking to collaborate on **on Frontend and Backend Projects.**
 
-- 👨‍💻 All of my projects are available at [https://incandescent-gaufre-5716af.netlify.app/](https://incandescent-gaufre-5716af.netlify.app/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://rahulzhp.github.io/)
 
 - 💬 Ask me about **React,Html,CSS,JavaScript**
 
 - 📫 How to reach me **rahulvck95@gmail.com**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1fHs0WXpCaHcAUypp7c8C1qIGgH1xVYuH/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1fHs0WXpCaHcAUypp7c8C1qIGgH1xVYuH/view)
 
 - ⚡ Fun fact **Learning mindset 🧠.**
 
